@@ -1,2 +1,3 @@
 # Equinox_Examples
-Machine learning algorithms implemented with equinox
+
+These examples are all reimplementations of the [keras examples](https://keras.io/examples/) unless otherwise stated. 
