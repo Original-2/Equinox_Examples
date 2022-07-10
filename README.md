@@ -5,3 +5,5 @@ These examples are all reimplementations of the [keras examples](https://keras.i
 ## Why use equinox / jax-based libraries
 
 Tensorflow is bloated. This means it is a very large package with lots of useless redundancy and legacy features; tensorflow is therefore hard to understand. Tensorflow is also (often) very slow. I cannot say the same about pytorch as I have little experience with it. However, equinox is fast, lightweight and easy to use.
+
+note: some values such as accuracy may differ from the keras examples to the random nature of machine learning
